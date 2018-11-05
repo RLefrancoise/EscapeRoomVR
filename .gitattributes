@@ -1,0 +1,3 @@
+*.a filter=lfs -text
+*.lib filter=lfs -text
+*.dll filter=lfs -text

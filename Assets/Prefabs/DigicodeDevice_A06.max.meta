@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 2710408d19a2752458b648979eaadb11
+timeCreated: 1486261126
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Blue Wire
+    100002: //RootNode
+    100004: Green Wire
+    100006: Key0
+    100008: Key1
+    100010: Key2
+    100012: Key3
+    100014: Key4
+    100016: Key5
+    100018: Key6
+    100020: Key7
+    100022: Key8
+    100024: Key9
+    100026: KeyCancel
+    100028: KeyValidate
+    100030: LCDScreen
+    100032: Red Wire
+    400000: Blue Wire
+    400002: //RootNode
+    400004: Green Wire
+    400006: Key0
+    400008: Key1
+    400010: Key2
+    400012: Key3
+    400014: Key4
+    400016: Key5
+    400018: Key6
+    400020: Key7
+    400022: Key8
+    400024: Key9
+    400026: KeyCancel
+    400028: KeyValidate
+    400030: LCDScreen
+    400032: Red Wire
+    2300000: Blue Wire
+    2300002: //RootNode
+    2300004: Green Wire
+    2300006: Key0
+    2300008: Key1
+    2300010: Key2
+    2300012: Key3
+    2300014: Key4
+    2300016: Key5
+    2300018: Key6
+    2300020: Key7
+    2300022: Key8
+    2300024: Key9
+    2300026: KeyCancel
+    2300028: KeyValidate
+    2300030: LCDScreen
+    2300032: Red Wire
+    3300000: Blue Wire
+    3300002: //RootNode
+    3300004: Green Wire
+    3300006: Key0
+    3300008: Key1
+    3300010: Key2
+    3300012: Key3
+    3300014: Key4
+    3300016: Key5
+    3300018: Key6
+    3300020: Key7
+    3300022: Key8
+    3300024: Key9
+    3300026: KeyCancel
+    3300028: KeyValidate
+    3300030: LCDScreen
+    3300032: Red Wire
+    4300000: DigicodeDevice
+    4300002: Key7
+    4300004: Key8
+    4300006: Key9
+    4300008: Key4
+    4300010: Key5
+    4300012: Key6
+    4300014: Key1
+    4300016: Key2
+    4300018: Key3
+    4300020: KeyCancel
+    4300022: Key0
+    4300024: KeyValidate
+    4300026: LCDScreen
+    4300028: Blue Wire
+    4300030: Green Wire
+    4300032: Red Wire
+    6400000: Blue Wire
+    6400002: //RootNode
+    6400004: Green Wire
+    6400006: Key0
+    6400008: Key1
+    6400010: Key2
+    6400012: Key3
+    6400014: Key4
+    6400016: Key5
+    6400018: Key6
+    6400020: Key7
+    6400022: Key8
+    6400024: Key9
+    6400026: KeyCancel
+    6400028: KeyValidate
+    6400030: LCDScreen
+    6400032: Red Wire
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,52 @@
+13112221
+
+x : 1311
+y : 2221
+
+23124110
+
+v : 2312
+w : 4110
+
+
+x + v
+
+ 1311
++2312
+-----
+ 3623
+
+y + w
+
+ 2221
++4110
+-----
+ 6331
+
+x + w
+
+ 1311
++4110
+-----
+ 5421
+
+y + v
+
+ 2221
++2312
+-----
+ 4533
+
+x + y + 2v = x + v + y + v = 3623 + 4533 = 8156
+y + w + x + w - v = x + y - v + 2w = 6331 + 5421 - 2312 = 9440
+[x+w][x+v] = 54213623
+x + y + v + w = 1311 + 2221 + 2312 + 4110 = 9954
+
+
+
+2890 1547
+twoeightninezero onefivefourseven
+nineninefivefour nineninefivefour
+
+gebivouxsqiieslf bvrjvdrjwcmwjjye
+GEBIVOUXSQIIESLF BVRJVDRJWCMWJJYE
